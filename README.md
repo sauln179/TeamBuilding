@@ -30,11 +30,11 @@ Give feedback.
 
 # Test
 If you do wish to test this, you could run either node index to have an html file generated for you, or by using the following:
-- npx jest, 
-![Screen Shot 2022-04-09 at 4 54 22 PM](https://user-images.githubusercontent.com/79173328/162595405-a423c999-0d7d-4603-a6d7-527e7f56ac65.png)
+- npx jest<br> 
+![Screen Shot 2022-04-09 at 4 54 22 PM](https://user-images.githubusercontent.com/79173328/162595405-a423c999-0d7d-4603-a6d7-527e7f56ac65.png)<br>
 
-- npx jest {specific file path}
-![Screen Shot 2022-04-09 at 4 54 49 PM](https://user-images.githubusercontent.com/79173328/162595426-15dc731a-77ec-4c64-8afc-6e46cf265891.png)
+- npx jest {specific file path}<br>
+![Screen Shot 2022-04-09 at 4 54 49 PM](https://user-images.githubusercontent.com/79173328/162595426-15dc731a-77ec-4c64-8afc-6e46cf265891.png)<br>
 
 # Questions
 Here is the following information to reach the creator:
