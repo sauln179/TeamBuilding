@@ -1,0 +1,12 @@
+#header{
+    background-color: gray;
+}
+#manager {
+    background-color: rgb(209, 83, 83);
+}
+#engineer{
+    background-color: rgb(102, 191, 194);
+}
+#intern{
+    background-color: rgba(128, 255, 0, 0.733);
+}
