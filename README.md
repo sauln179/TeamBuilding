@@ -1,5 +1,8 @@
 
   # TeamBuilding
+  ![Screen Shot 2022-04-09 at 4 53 04 PM](https://user-images.githubusercontent.com/79173328/162595360-76841a4b-9456-4062-bf62-b8074a07a58f.png)
+
+  
   ## Boost
   [![License](https://img.shields.io/badge/License-Boost_1.0-lightblue.svg)](https://www.boost.org/LICENSE_1_0.txt)
 
@@ -26,7 +29,12 @@ The usage of this project is to allow the user fill out prompts, in order to gen
 Give feedback.
 
 # Test
-If you do wish to test this, you could run either node index to have an html file generated for you, or by using npx jest, or npx jest {specific file path}, you could run a test to verify its functionality.
+If you do wish to test this, you could run either node index to have an html file generated for you, or by using the following:
+- npx jest, 
+- ![Screen Shot 2022-04-09 at 4 54 22 PM](https://user-images.githubusercontent.com/79173328/162595405-a423c999-0d7d-4603-a6d7-527e7f56ac65.png)
+
+- npx jest {specific file path},
+![Screen Shot 2022-04-09 at 4 54 49 PM](https://user-images.githubusercontent.com/79173328/162595426-15dc731a-77ec-4c64-8afc-6e46cf265891.png)
 
 # Questions
 Here is the following information to reach the creator:
