@@ -1,6 +1,8 @@
 
   # TeamBuilding
-  ![Screen Shot 2022-04-09 at 4 53 04 PM](https://user-images.githubusercontent.com/79173328/162595360-76841a4b-9456-4062-bf62-b8074a07a58f.png)
+  ![Screen Shot 2022-04-09 at 4 53 04 PM](https://user-images.githubusercontent.com/79173328/162595360-76841a4b-9456-4062-bf62-b8074a07a58f.png)<br>
+  
+  Here is the link to the video: https://drive.google.com/file/d/1-gJ7V3idDB7bE4kklTdAa9FFMRuCmgnK/view?usp=sharing <br>
 
   
   ## Boost
